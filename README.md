@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ERJavier
+- 👋 Hi, I’m @ERJavier === Javier Cepeda
 - 👀 I’m interested in javascript, php, python, ruby, c++
 - 🌱 I’m currently learning react.js, Node.js, unity
 - 💞️ I’m looking to collaborate on open source
