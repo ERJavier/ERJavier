@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=courtier&weight=200&size=18&duration=2000&pause=999999&color=F7DC26&center=true&vCenter=true&width=435&lines=%23%23+Hello+%F0%9F%A4%99+I'm++Javier)](https://git.io/typing-svg)
+## Hello 🤙 I&apos;m  Javier
+
 
 #### Currently studying at @platzi 
 
