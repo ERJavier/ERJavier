@@ -6,7 +6,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erjavier&show_icons=true&theme=onedark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erjavier&langs_count=8&layout=compact&theme=onedark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erjavier&langs_count=10&layout=compact&theme=onedark)]
 
 
 #### Learning JAVASCRIPT, PYTHON, PHP, JAVA, RUBY, GO, AND RUST
